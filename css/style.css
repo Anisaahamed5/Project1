@@ -4,6 +4,8 @@
   font-family: fantasy;
   font-size: 40px;
   padding-top: 20px;
+  color: white;
+  font-weight: bold;
 
 }
 
@@ -17,13 +19,23 @@
   padding: 20px;
   font-family: fantasy;
   border-radius: 20px;
+  color: white;
 
+}
+
+.form > label {
+
+  padding-top: 25px;
+  margin-bottom: 0;
 }
 
 .form > input {
   width: 100%;
   font-family: fantasy;
   border-radius: 10px;
+  background-color: #474b4f;
+  color: white;
+  outline: none !important;
 
 }
 
@@ -31,12 +43,26 @@ h1 {
   text-align: center;
   font-family: fantasy;
   padding-top: 15px;
+  color: white;
 }
 
 .submit {
-  margin-top: 20px;
+  margin-top: 35px;
+  color:white;
+  padding-top: 10px;
 }
 
 .label1 {
   padding-top: 10px;
+  color:white;
 }
+
+html,
+body {
+  background-image: radial-gradient( #2e151b, #8e8d8a) !important;
+}
+
+.namelabel {
+  padding-top: 0 !important;
+}
+
