@@ -92,3 +92,8 @@ h2 {
   font-size: 30px;
   padding-top: 30px !important;
 }
+
+.carousel-item{
+  width: 640px;
+  height: 360px;
+}
