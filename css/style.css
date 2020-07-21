@@ -75,11 +75,20 @@ h2 {
 
 .aboutme {
   color: white;
+  font-family: fantasy;
   
 }
 
 .images {
   width: 100%;
-  padding-top: 40px;
+  padding-top: 10px;
   padding-bottom: 40px;
+}
+
+.shopheader {
+  color: white;
+  text-align: center;
+  font-family: fantasy;
+  font-size: 30px;
+  padding-top: 30px !important;
 }
