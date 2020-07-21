@@ -68,5 +68,8 @@ body {
 
 h2 {
   text-align: center;
+  color: white;
+  font-family: fantasy;
+  padding-top: 20px; 
 }
 
