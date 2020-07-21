@@ -104,3 +104,15 @@ h2 {
   height: 360px;
 
 }
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+  border-radius: 50%;
+}
+
+.fa-instagram {
+  color: white;
+  border-radius: 50%;
+  align-content: center;
+}
