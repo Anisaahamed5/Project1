@@ -20,6 +20,7 @@
   font-family: fantasy;
   border-radius: 20px;
   color: white;
+  margin-bottom: 30px;
 
 }
 
@@ -114,5 +115,4 @@ h2 {
 .fa-instagram {
   color: white;
   border-radius: 50%;
-  align-content: center;
 }
